@@ -1,7 +1,7 @@
 {
   "id": "CT-68",
   "student": {
-    "name": "rrr",
+    "name": "eeee",
     "email": "shareli@univ.haifa.ac.il"
   },
   "caseData": {
@@ -91,7 +91,7 @@
       }
     }
   },
-  "timestamp": "2025-09-15T16:40:13.733Z",
-  "submittedAt": 1757954413733,
+  "timestamp": "2025-09-15T16:43:35.013Z",
+  "submittedAt": 1757954615013,
   "generatedBy": "systematic"
 }
