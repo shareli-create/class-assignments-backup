@@ -1,39 +1,39 @@
 {
   "id": "ECT-538",
   "student": {
-    "name": "rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+    "name": "'ר'ר'ר'ר'ר",
     "email": "test@debug.com"
   },
   "caseData": {
     "id": "ECT-538",
-    "title": "פרויקט השיתוף החדש בחברת נוב-סיסטמס",
-    "eventDescription": "חברת נוב-סיסטמס החליטה על מעבר לפלטפורמת עבודה חדשה. העובדים התנגדו בתוקף למערכת החדשה והביעו חוסר אמון. הפרויקט הושהה לאחר שלושה חודשים וההנהלה החליטה על גישה הדרגתית.",
+    "title": "Case Title 1",
+    "eventDescription": "Case setup 1 Case crisis 1 Case outcome 1",
     "expertAnalyses": [
       {
-        "expertName": "פרופ' אביב גרין (חוקר תקשורת, אוניברסיטת חיפה)",
-        "theoreticalBasis": "תיאוריית התקשורת הארגונית",
-        "analysis": "הבעיה הייתה בתקשורת גרועה - לא הסבירו לעובדים את היתרונות והשינויים הצפויים."
+        "expertName": "Dr. Ilana Zehav (Cognitive Psychologist, Tel Aviv University)",
+        "theoreticalBasis": "Rational Decision Making Theory",
+        "analysis": "The problem is mainly technical - the committee did not receive enough information or did not process it properly."
       },
       {
-        "expertName": "ד\"ר מיכל רוזן (פסיכולוגית ארגונית, אוניברסיטת בר אילן)",
-        "theoreticalBasis": "תיאוריית ההתנגדות לשינוי",
-        "analysis": "התנגדות טבעית לשינוי - העובדים פחדו מהלא נודע והעדיפו את הרגלים הקיימים."
+        "expertName": "Prof. Ron Cohen (Social Psychologist, Hebrew University)",
+        "theoreticalBasis": "Groupthink Theory",
+        "analysis": "The case demonstrates how cohesive groups develop defense mechanisms against threatening information and make poor decisions."
       },
       {
-        "expertName": "ד\"ר שלום כחולי (מהנדס תעשייה, הטכניון)",
-        "theoreticalBasis": "תיאוריית מערכות מידע",
-        "analysis": "המערכת החדשה לא הייתה מספיק ידידותית למשתמש וחסרו תכונות חיוניות."
+        "expertName": "Dr. Amit Barak (Management Researcher, Tel Aviv-Yafo College)",
+        "theoreticalBasis": "Organizational Hierarchy Theory",
+        "analysis": "This is a case of an inefficient hierarchical structure that prevents the flow of information from the bottom up."
       }
     ],
     "analysisQuestions": [
-      "נתח את הניתוחים",
-      "זהה חוזקות וחולשות",
-      "פתח ניתוח עצמאי"
+      "Analyze the analyses",
+      "Identify strengths and weaknesses",
+      "Develop an independent analysis"
     ],
     "generatedBy": "systematic",
-    "primaryTheory": "התנגדות לשינוי"
+    "primaryTheory": "Groupthink"
   },
-  "timestamp": "2025-09-16T14:54:56.076Z",
-  "submittedAt": 1758034496076,
+  "timestamp": "2025-09-16T16:00:19.582Z",
+  "submittedAt": 1758038419582,
   "generatedBy": "systematic"
 }
